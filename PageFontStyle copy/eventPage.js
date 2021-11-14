@@ -9,9 +9,9 @@ chrome.extension.onMessage.addListener(
 });
     
 
-chrome.pageAction.onClicked.addListener(function(activeTab) {
-    chrome.tabs.executeScript(null, {file: "content.js"});
-});
+// chrome.pageAction.onClicked.addListener(function(activeTab) {
+//     chrome.activeTab.executeScript(null, {file: "content.js"});
+// });
 
 //     $('.css-1x9iesk').css('background-color','green');
 // } else {
