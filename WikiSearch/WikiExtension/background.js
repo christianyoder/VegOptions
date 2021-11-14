@@ -1,3 +1,6 @@
+let toBeParsed = document.getElementsByClassName("lcorif fp-w");
+console.log(toBeParsed.innerText);
+
 var serverhost = 'http://127.0.0.1:8000';
 
 	chrome.runtime.onMessage.addListener(
