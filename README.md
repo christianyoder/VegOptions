@@ -5,4 +5,4 @@ chrome extension to support food-related environmental civic engagement and prom
 Yelp, Google Reviews, OpenStreetMap, HappyCow, Tripadvisor
 
 ## scoring methodology 🥕
-textual analysis of reviews looking for keywords including veg*, pescatarian, plant*
+Textual analysis of reviews looking for keywords such as veg*, pescatarian, plant*, or meat. Words related to plant-based foods such as veg*, pescatarian, plant* will increase the score, and words related to meat such as pork or beef will reduce the score.
